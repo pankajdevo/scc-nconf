@@ -1,0 +1,24 @@
+userlist  and edit user redirect
+sample list order descending id
+assign name should be avaiable in sample list
+region incharge show only sample list 
+remove account setting from top corner
+edit profile for user in top corner
+when regional user login then form p , b, b1 should be not be visble
+after submit report report then should be visible form p &K  .
+
+
+
+LOGOUT
+
+15-10-2024
+
+Form P. Form B1, Form b is onclick to download.
+phase 1 report is upload then show form p & k is showing for region incharge.
+after showing and download the p & k Form then region incharge is upload to final report to head office incharge.
+after showing final report and download then status is showing is complete
+Form P. Form B1, Form b is downloading by id.
+Status is change according to action button
+all user is showing in userlist and status should be change according to action 
+Userlist is not showing region incharge dashboard
+user edit is pending for all user
